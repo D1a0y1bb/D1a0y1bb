@@ -30,6 +30,13 @@ I work on cybersecurity research, security competitions, and AI-assisted securit
 | [Claw-Guard](https://github.com/D1a0y1bb/Claw-Guard) | A local security assistant for OpenClaw installation checks, extension auditing, and security records. |
 | [HuntingBlade](https://github.com/D1a0y1bb/HuntingBlade) | An agent workflow experiment for automated CTF solving. |
 
+## Codex Pets
+
+| Pet | What it does |
+| --- | --- |
+| [Diaoyi Baobao Codex Pet](https://github.com/D1a0y1bb/Diaoyi-Baobao-Codex-Pet) | A Codex-compatible digital pet package for `吊椅宝宝`. |
+| [Tian Hua Hua Codex Pet](https://github.com/D1a0y1bb/Tian-Hua-Hua-Codex-Pet) | A Codex-compatible digital pet package for `田花花`. |
+
 ## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
