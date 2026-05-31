@@ -27,6 +27,7 @@ I work on cybersecurity research, security competitions, and AI-assisted securit
 | --- | --- |
 | [CTF-Build-skill](https://github.com/D1a0y1bb/CloverSec-CTF-Build-Dockerizer-skill) | A CTF challenge container builder and delivery checker for competition platforms and range engines. |
 | [PitcherPlant](https://github.com/D1a0y1bb/PitcherPlant) | A macOS 26 app for auditing CTF write-up documents and generating similarity evidence reports. |
+| [Rmitting](https://github.com/D1a0y1bb/Rmitting) | A macOS 26 SwiftUI reminders app backed by Apple Reminders with local organization metadata. |
 | [Claw-Guard](https://github.com/D1a0y1bb/Claw-Guard) | A local security assistant for OpenClaw installation checks, extension auditing, and security records. |
 | [HuntingBlade](https://github.com/D1a0y1bb/HuntingBlade) | An agent workflow experiment for automated CTF solving. |
 
