@@ -1,8 +1,8 @@
 # D1a0y1bb
 
-I work on **CTF infrastructure, security tooling, and practical AI-agent workflows**. My recent work focuses on making competition operations less manual: challenge research, material collection, Docker conversion, Chinese writeups, archive packaging, quality review, and Hub preparation.
+I work on **CTF infrastructure, security tooling, and practical AI-agent workflows**. My recent work focuses on making competition operations less manual: challenge research, material collection, Docker conversion, Chinese writeups, archive packaging, quality review, Hub preparation, and CTF solving automation.
 
-I also build local-first macOS and Android apps when the workflow is easier to solve with a native tool than another script.
+I also build local-first macOS tools when the workflow is easier to solve with a native app than another script.
 
 ## Featured Work
 
@@ -17,8 +17,8 @@ A Codex plugin marketplace for CloverSec competition work. It connects research,
 
 - **CTF operations tooling**: research intake, attachment handling, archive layouts, final reports, Chinese manuals, and quality checks for competition deliverables.
 - **Container delivery workflows**: Docker challenge conversion and validation for Web, Pwn, AI, RDG, AWD/AWDP, SecOps, BaseUnit, Scenario/Vulhub-like, Bundle/Recipe, and Linux-QEMU cases.
+- **AI-assisted CTF solving**: multi-model solver swarms, platform polling, challenge import, coordinator policies, environment release, and writeup generation.
 - **Security review apps**: local-first tools for WriteUP similarity review, evidence inspection, fingerprint libraries, and report export.
-- **Native productivity tools**: SwiftUI macOS apps and Kotlin / Jetpack Compose Android apps for workflows I use myself.
 - **Codex packages**: plugins, skills, MCP helpers, and installable Codex pet packages.
 
 ## Selected Projects
@@ -26,11 +26,11 @@ A Codex plugin marketplace for CloverSec competition work. It connects research,
 - **CloverSec-CTF-Build-Dockerizer-skill** - turns CTF source and challenge directories into validated Docker deliverables for competition platforms and range engines.  
   https://github.com/D1a0y1bb/CloverSec-CTF-Build-Dockerizer-skill
 
+- **HuntingBlade** - a CTF solving workflow based on `ctf-agent`, extended for full-event polling, CTFd and Lingxu platform access, manual challenge import, multi-model solving, environment release, and post-game writeup output.  
+  https://github.com/D1a0y1bb/HuntingBlade
+
 - **PitcherPlant** - a native macOS WriteUP audit workbench for comparing text, code, images, metadata, and historical fingerprints, then exporting structured evidence reports.  
   https://github.com/D1a0y1bb/PitcherPlant
-
-- **weiboToy** - an Android Weibo client experiment using Kotlin and Jetpack Compose, combining group chats, cached messages, timeline reading, post details, user pages, search, and media handling.  
-  https://github.com/D1a0y1bb/weiboToy
 
 - **Rmitting** - a macOS reminders app backed by Apple Reminders, with local organization metadata, archive, recent delete, settings, menu commands, toolbar, and sidebar.  
   https://github.com/D1a0y1bb/Rmitting
@@ -41,7 +41,7 @@ A Codex plugin marketplace for CloverSec competition work. It connects research,
 
 ## Stack
 
-Python, Swift, Kotlin, TypeScript, Go, Docker, SwiftUI, Jetpack Compose, SQLite, macOS, Android.
+Python, Swift, TypeScript, Go, Docker, SwiftUI, SQLite, macOS, Linux, agent workflows.
 
 ## Collaboration
 
