@@ -1,16 +1,19 @@
 # D1a0y1bb
 
-I work at the intersection of **CTF competition systems, AI security, and AI-agent engineering**.
+I work at the intersection of **CTF competition systems, AI security, AI-agent engineering, and full-stack product development**.
 
 From 2024 to 2025, my work centered on CTF challenge design, competition format design, AI/Web frontier challenge research, next-generation competition platform R&D, and security competition operations at CloverSec. In 2026, I moved into the CloverSec AI Security Lab, focusing on AI security research and applied AI systems.
 
-My current direction is the organic combination of **competitions and AI security**: using competitions as a way to expose real security problems, using AI agents to improve security workflows, and turning research ideas into systems that can be used by teams under real operational constraints.
+I am not only a security researcher. I also build the systems around the research: backend services, frontend product surfaces, desktop applications, local data layers, automation pipelines, release workflows, and the operational tools needed to make security work usable by real teams.
+
+My current direction is the organic combination of **competitions, AI security, and full-stack engineering**: using competitions as a way to expose real security problems, using AI agents to improve security workflows, and turning research ideas into systems that can be used by teams under real operational constraints.
 
 ## Research & Engineering Focus
 
 - **AI Agent + security research**: multi-agent CTF solving, coordinator policies, platform polling, challenge import, environment lifecycle management, and writeup generation.
 - **Competition infrastructure**: challenge lifecycle tooling, archive standards, Hub preparation, quality review, final reports, and platform-oriented delivery workflows.
 - **AI security competitions**: AI/Web frontier challenge design, evaluation-oriented competition formats, and tooling that connects research with event operations.
+- **Full-stack product engineering**: backend APIs, frontend interfaces, desktop clients, local storage, packaging, update channels, and release automation for security products.
 - **Secure delivery systems**: Dockerized challenge conversion, platform compatibility checks, reproducible assets, and practical validation pipelines.
 - **AI application prototypes**: internal tools and product experiments that connect AI research with real security-team workflows, including Claw Guard for OpenClaw desktop governance and evidence retention.
 - **Local-first security tools**: native desktop tools for evidence review, WriteUP similarity inspection, fingerprint libraries, runtime checks, and report export.
@@ -64,4 +67,4 @@ Python, Swift, TypeScript, Go, Docker, React, Vite, Wails, SwiftUI, SQLite, macO
 
 ## Collaboration
 
-I am interested in AI security, CTF infrastructure, AI-agent systems for security work, competition platform design, and research-to-engineering projects that can survive real event pressure.
+I am interested in AI security, CTF infrastructure, AI-agent systems for security work, full-stack security products, competition platform design, and research-to-engineering projects that can survive real event pressure.
