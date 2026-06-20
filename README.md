@@ -12,6 +12,7 @@ My current direction is the organic combination of **competitions and AI securit
 - **Competition infrastructure**: challenge lifecycle tooling, archive standards, Hub preparation, quality review, final reports, and platform-oriented delivery workflows.
 - **AI security competitions**: AI/Web frontier challenge design, evaluation-oriented competition formats, and tooling that connects research with event operations.
 - **Secure delivery systems**: Dockerized challenge conversion, platform compatibility checks, reproducible assets, and practical validation pipelines.
+- **AI application prototypes**: internal tools and product experiments that connect AI research with real security-team workflows, including the Lobster project.
 - **Local-first security tools**: native macOS tools for evidence review, WriteUP similarity inspection, fingerprint libraries, and report export.
 
 ## Public Work
@@ -55,7 +56,7 @@ A native macOS WriteUP audit workbench for comparing text, code, images, metadat
 
 ## Non-public Work
 
-Some of my work is internal to CloverSec, including next-generation competition platform R&D, AI/Web frontier challenge development, event operations, and AI Security Lab research prototypes. I only link public repositories here.
+Some of my work is internal to CloverSec, including next-generation competition platform R&D, AI/Web frontier challenge development, event operations, AI Security Lab research prototypes, and the Lobster project. I only link public repositories here.
 
 ## Stack
 
