@@ -4,8 +4,6 @@ I work at the intersection of **CTF competition systems, AI security, AI-agent e
 
 From 2024 to 2025, my work centered on CTF challenge design, competition format design, AI/Web frontier challenge research, next-generation competition platform R&D, and security competition operations at CloverSec. In 2026, I moved into the CloverSec AI Security Lab, focusing on AI security research and applied AI systems.
 
-I am not only a security researcher. I also build the systems around the research: backend services, frontend product surfaces, desktop applications, local data layers, automation pipelines, release workflows, and the operational tools needed to make security work usable by real teams.
-
 My current direction is the organic combination of **competitions, AI security, and full-stack engineering**: using competitions as a way to expose real security problems, using AI agents to improve security workflows, and turning research ideas into systems that can be used by teams under real operational constraints.
 
 ## Research & Engineering Focus
