@@ -1,5 +1,7 @@
 # D1a0y1bb
 
+在失去的那段时光里，我最怀念当初的我自己，无论后来去往何处，都不能忘记
+
 I work at the intersection of **CTF competition systems, AI security, AI-agent engineering, and full-stack product development**.
 
 From 2024 to 2025, my work centered on CTF challenge design, competition format design, AI/Web frontier challenge research, next-generation competition platform R&D, and security competition operations at CloverSec. In 2026, I moved into the CloverSec AI Security Lab, focusing on AI security research and applied AI systems.
